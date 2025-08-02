@@ -38,13 +38,13 @@ Folder Structure
 
 Smart-Digital-Locker/
 |
-  Backend/ # Spring Boot backend
+  Backend # Spring Boot backend
   |
   src/main/java/... # Java source code
   
   
-| Frontend/ # React frontend
-    |src/ # React components
+| Frontend # React frontend
+    src/ # React components
 
 Backend Setup
 
