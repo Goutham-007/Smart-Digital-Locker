@@ -2,6 +2,9 @@ Smart Digital Locker
 
 Smart Digital Locker is a secure web application built using React (Frontend) and Spring Boot (Backend) that allows users to safely upload, manage, and access their personal documents digitally. It aims to replace physical lockers and streamline document accessibility with modern cloud storage and authentication.
 
+Author
+
+J Goutham Raj – [GitHub Profile](https://github.com/Goutham-007)
 
 
 Features
