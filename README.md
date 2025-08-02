@@ -58,6 +58,18 @@ cd Frontend
 npm install
 npm start
 
+API Endpoints
+
+| Method | Endpoint                      | Description                               | Access   |
+|--------|-------------------------------|-------------------------------------------|----------|
+| POST   | `/api/users/register`         | Register a new user                       | Public   |
+| POST   | `/api/users/login`            | Authenticate and login user               | Public   |
+| POST   | `/api/files/upload`           | Upload a file to digital locker           | Authenticated |
+| GET    | `/api/files`                  | Get all files of the logged-in user       | Authenticated |
+| GET    | `/api/files/download/{id}`    | Download a file by ID                     | Authenticated |
+| DELETE | `/api/files/{id}`             | Delete a file by ID                       | Authenticated |
+
+
 Snapshots
 
 Register
