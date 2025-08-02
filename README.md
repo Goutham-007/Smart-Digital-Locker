@@ -58,8 +58,17 @@ cd Frontend
 npm install
 npm start
 
-Contributions
+Snapshots
 
-Contributions are welcome!  
-Feel free to fork the repository, submit issues, or open pull requests to improve the project.
+Register
+<img width="700" height="540" alt="image" src="https://github.com/user-attachments/assets/759b7a50-4454-401b-86cb-b2b6b91f2785" />
+
+Login
+<img width="706" height="501" alt="image" src="https://github.com/user-attachments/assets/0fc3e862-f34b-42c3-b0c7-72fd802ac5b9" />
+
+Dashboard
+<img width="706" height="417" alt="image" src="https://github.com/user-attachments/assets/d368d066-5e5b-42c1-b6d6-6cfeae60e68e" />
+
+
+
 
