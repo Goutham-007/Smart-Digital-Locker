@@ -1,0 +1,45 @@
+.dashboard-container {
+  max-width: 800px;
+  margin: 50px auto;
+  background: white;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+}
+
+.upload-section {
+  margin-bottom: 20px;
+}
+
+.upload-section input[type="file"] {
+  margin-right: 10px;
+}
+
+.logout {
+  float: right;
+  background: #ef4444;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  cursor: pointer;
+}
+
+.files-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.files-list li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5px 0;
+  background: #f9fafb;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.files-list button {
+  margin-left: 10px;
+  padding: 5px 10px;
+}
