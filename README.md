@@ -57,3 +57,9 @@ Frontend Setup
 cd Frontend
 npm install
 npm start
+
+Contributions
+
+Contributions are welcome!  
+Feel free to fork the repository, submit issues, or open pull requests to improve the project.
+
